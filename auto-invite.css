@@ -1,0 +1,6 @@
+/* add !important if you are overriding _existing_ styles */
+
+.ace-editor {
+  color: red !important;
+    font-family: times !important;
+  }
